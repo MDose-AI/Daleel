@@ -1,4 +1,3 @@
-// src/components/Dashboard/AdmissionDetails.tsx
 "use client";
 
 import React, { useContext } from "react";

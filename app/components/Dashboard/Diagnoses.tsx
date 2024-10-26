@@ -1,4 +1,3 @@
-// src/components/Dashboard/Diagnoses.tsx
 "use client";
 
 import React from "react";

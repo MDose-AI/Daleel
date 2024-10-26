@@ -1,4 +1,3 @@
-// src/components/Dashboard/MicrobiologyEvents.tsx
 "use client";
 
 import React from "react";

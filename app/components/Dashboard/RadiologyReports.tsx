@@ -1,4 +1,3 @@
-// src/components/Dashboard/RadiologyReports.tsx
 "use client";
 
 import React from "react";

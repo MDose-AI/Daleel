@@ -1,4 +1,3 @@
-// src/components/Dashboard/IcuStay.tsx
 "use client";
 
 import React, { useContext } from "react";

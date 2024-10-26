@@ -1,4 +1,3 @@
-// src/components/Dashboard/Dashboard.tsx
 "use client";
 
 import React from "react";

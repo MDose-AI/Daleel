@@ -1,4 +1,3 @@
-// src/components/Dashboard/Billing.tsx
 "use client";
 
 import React from "react";

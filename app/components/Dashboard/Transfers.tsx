@@ -1,4 +1,3 @@
-// src/components/Dashboard/Transfers.tsx
 "use client";
 
 import React from "react";

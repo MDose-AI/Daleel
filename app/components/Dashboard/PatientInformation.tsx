@@ -1,4 +1,3 @@
-// src/components/Dashboard/PatientInformation.tsx
 "use client";
 
 import React, { useContext } from "react";
